@@ -16,5 +16,3 @@ EFI folder can be found on the relases section.
 If you are using legacy boot, you need bootinstall command which is provided in the Opencore official repsossitory
 
 ![Captura de pantalla 2021-06-28 a las 23 16 02](https://user-images.githubusercontent.com/44674082/123705324-17f38b00-d867-11eb-807b-f774d3644393.png)
-
-P.S. Now that I'm finishing my exams, I will try to keep updating this repository till the summer ends, so stay tuned for more updates althought I do not promise nothing
